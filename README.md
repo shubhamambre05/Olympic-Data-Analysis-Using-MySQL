@@ -1,4 +1,3 @@
-# Olympic-Data-Analysis-Using-MySQL
 
 # 🏅 **Olympic Data Analysis Using MySQL**
 
